@@ -1,0 +1,98 @@
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.main(SalesReportDemo.java:20)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:127)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:127)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:127)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:127)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:127)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:127)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:127)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:127)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:127)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.io.IOException: Missing file: missing.csv
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:63)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:127)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:56:02 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
