@@ -1,0 +1,219 @@
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.main(SalesReportDemo.java:20)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:128)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:128)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:128)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:128)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:128)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:128)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:128)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:128)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:128)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateManualReport
+SEVERE: Manual version failed while reading missing file.
+java.nio.file.NoSuchFileException: input\missing.csv
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:104)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:109)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:231)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:357)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:399)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:371)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:154)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2649)
+	at java.base/java.nio.file.Files.newBufferedReader(Files.java:2678)
+	at TrackingReader.<init>(SalesReportDemo.java:154)
+	at SalesReportDemo.generateManualReport(SalesReportDemo.java:56)
+	at SalesReportDemo.benchmark(SalesReportDemo.java:128)
+	at SalesReportDemo.main(SalesReportDemo.java:31)
+
+Nov 06, 2026 1:54:09 PM SalesReportDemo generateTryWithResourcesReport
+WARNING: Skipping missing file: missing.csv
